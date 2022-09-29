@@ -46,7 +46,6 @@ namespace ConsoleApp12
             int sum = 0;
             PrintArray(arr, sum);
 
-
         }
     }
 }
